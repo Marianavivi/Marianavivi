@@ -31,6 +31,9 @@
   [![WhatsApp](https://img.shields.io/badge/WAGroup-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JRkA9n11NIfFyXkuCXPv42)
   
 [![WhatsApp](https://img.shields.io/badge/WAChannel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaLYCPXJENxtW7BU9a0u) 
+
+<h2 align='center'><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b></h2>
+
 </div>
 
 <div align="center">
