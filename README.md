@@ -1,7 +1,25 @@
 <div align="center">
 
-# 💫 About Me
-### I'm currently learning Full Stack Development
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mariana%20Gutierrez&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A;Code+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" /></a>
+</p>
+
+<br/>
+
+## 💫 About Me
+
+🔭 I'm currently learning **Full Stack Development**
+
+🌱 Exploring **React, Node.js, Python & MongoDB**
+
+💡 Passionate about creating **user-friendly applications**
+
+🎯 2025 Goals: **Build innovative projects & contribute to open source**
+
+⚡ Fun fact: **I love turning coffee into code**
 
 <br/>
 
@@ -39,18 +57,88 @@
 <br/>
 <br/>
 
-# 📊 GitHub Stats
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Marianavivi&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+<br/>
+
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Marianavivi&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Marianavivi&theme=github_dark&hide_border=true)
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Marianavivi&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+<br/>
+
+## 📈 GitHub Activity Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=Marianavivi&theme=github-compact&hide_border=true&area=true)
+
+<br/>
+
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=Marianavivi&icon=4&color=0)](https://visitcount.itsvg.in)
+## 💼 Featured Projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Coming Soon!</h3>
+<div align="center">
+<p>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-ff9?style=for-the-badge&logo=github"/>
+</a>
+</p>
+<p><strong>🚀 Exciting projects in development</strong></p>
+<p>Stay tuned for innovative full-stack applications showcasing modern web technologies!</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Your Next Project</h3>
+<div align="center">
+<p>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-ff9?style=for-the-badge&logo=github"/>
+</a>
+</p>
+<p><strong>💡 Building amazing things</strong></p>
+<p>Each project is a step forward in the journey of learning and growth.</p>
+</div>
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📫 How to Reach Me
+
+<p align="center">
+<a href="mailto:your.email@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://instagram.com/xj_ent">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://youtube.com/@MarianaGutierrez-b5p">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+</p>
+
+<br/>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Marianavivi&icon=4&color=6&pretty=true" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/Marianavivi">Marianavivi</a></i>
+</p>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
 </div>
